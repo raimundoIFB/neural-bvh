@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+AmbFernando/
+data/models/
+data/results/
+data/scenes/
+

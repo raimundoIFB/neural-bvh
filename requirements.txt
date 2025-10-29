@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+trimesh
+open3d
+torch
+tqdm
+pandas
